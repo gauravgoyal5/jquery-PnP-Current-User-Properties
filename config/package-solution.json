@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jquery-pn-p-current-user-properties-client-side-solution",
+    "id": "6480ce9b-e162-4127-b2ec-3aaf73841b79",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/jquery-pn-p-current-user-properties.sppkg"
+  }
+}

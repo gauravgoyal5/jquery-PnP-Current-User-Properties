@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "jquery-pn-p-current-user-properties",
+    "libraryId": "6480ce9b-e162-4127-b2ec-3aaf73841b79",
+    "environment": "spo"
+  }
+}
